@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hirentextutils/static/css/main.a617e044.chunk.css",
+    "main.js": "/hirentextutils/static/js/main.646bfea5.chunk.js",
+    "main.js.map": "/hirentextutils/static/js/main.646bfea5.chunk.js.map",
+    "runtime-main.js": "/hirentextutils/static/js/runtime-main.cd674ddb.js",
+    "runtime-main.js.map": "/hirentextutils/static/js/runtime-main.cd674ddb.js.map",
+    "static/js/2.7a26bdad.chunk.js": "/hirentextutils/static/js/2.7a26bdad.chunk.js",
+    "static/js/2.7a26bdad.chunk.js.map": "/hirentextutils/static/js/2.7a26bdad.chunk.js.map",
+    "static/js/3.46016998.chunk.js": "/hirentextutils/static/js/3.46016998.chunk.js",
+    "static/js/3.46016998.chunk.js.map": "/hirentextutils/static/js/3.46016998.chunk.js.map",
+    "index.html": "/hirentextutils/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hirentextutils/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7a26bdad.chunk.js.LICENSE.txt": "/hirentextutils/static/js/2.7a26bdad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd674ddb.js",
+    "static/js/2.7a26bdad.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.646bfea5.chunk.js"
+  ]
+}
